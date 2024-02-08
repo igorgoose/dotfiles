@@ -1,0 +1,91 @@
+<scheme name="_@user_TokyoNightStorm" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2024-01-30T16:07:34</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2023.3.3.0.0</property>
+    <property name="modified">2024-02-07T10:49:17</property>
+    <property name="originalScheme">TokyoNightStorm</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.alex.tokyonight</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="323950" />
+    <option name="DOCUMENTATION_COLOR" value="3c3c56" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="969696" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a7700" />
+    <option name="LINE_NUMBERS_COLOR" value="8f94b6" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d1d9f8" />
+    <option name="LOOKUP_COLOR" value="323857" />
+    <option name="SELECTION_BACKGROUND" value="52577c" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="757ca1" />
+      </value>
+    </option>
+    <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
+      <value>
+        <option name="EFFECT_COLOR" value="c4b0b0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="757ca1" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="39524f" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="82879d" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="e3ece3" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="d29a9a" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="84bdbd" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="cbb399" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="ce9ab7" />
+      </value>
+    </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3d6258" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="5b2f62" />
+      </value>
+    </option>
+    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="2f6794" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

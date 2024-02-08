@@ -1,0 +1,77 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.lineNumbers": "relative",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "workbench.colorTheme": "Darcula",
+  "html.format.contentUnformatted": "",
+  "explorer.confirmDelete": false,
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "editor.unicodeHighlight.allowedLocales": {
+    "ru": true
+  },
+  "svelte.enable-ts-plugin": true,
+  "prettier.printWidth": 120,
+  "tailwindCSS.experimental.configFile": "tailwind.config.cjs",
+  "workbench.editor.enablePreview": false,
+
+  "vim.easymotion": true,
+  "vim.incsearch": true,
+  "vim.relat": true,
+  "vim.useSystemClipboard": true,
+  "vim.useCtrlKeys": true,
+  "vim.hlsearch": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": ["j", "j"],
+      "after": ["<Esc>"]
+    }
+  ],
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<leader>", "d"],
+      "after": ["d", "d"]
+    },
+    {
+      "before": ["<C-n>"],
+      "commands": [":nohl"]
+    },
+    // {
+    //   "before": ["<leader>", "i"],
+    //   "after": ["editor.action.format"]
+    // },
+    {
+      "before": ["<leader>", "y", "a"],
+      "after": ["g", "g", "V", "G", "y"]
+    },
+    {
+      "before": ["<C-d>"],
+      "after": ["<C-d>", "z", "z"]
+    },
+    {
+      "before": ["<C-u>"],
+      "after": ["<C-u>", "z", "z"]
+    },
+    {
+      "before": ["K"],
+      "commands": ["lineBreakInsert"],
+      "silent": true
+    }
+  ],
+  "vim.leader": "<space>",
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-f>": false
+  },
+
+  // To improve performance
+  "extensions.experimental.affinity": {
+    "vscodevim.vim": 1
+  }
+}
