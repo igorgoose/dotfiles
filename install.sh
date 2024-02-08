@@ -4,5 +4,10 @@ sudo apt update && sudo apt upgrade -y
 # install git
 sudo apt install git-all
 
+sudo apt install snap
 
-ln -s alacritty ~/alacritty
+sudo apt install openjdk-21-jdk
+
+
+
+

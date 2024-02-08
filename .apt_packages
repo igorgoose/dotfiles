@@ -1,0 +1,14 @@
+libevent-dev
+ncurses-dev
+build-essential
+bison
+pkg-config
+autoconf
+automake
+git-all
+snap
+openjdk-21-jdk
+htop
+curl
+docker
+

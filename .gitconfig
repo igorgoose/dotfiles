@@ -1,0 +1,6 @@
+[user]
+    # These values are set in ~/.gitconfig_local
+
+[core]
+	autocrlf = input
+	editor = '/snap/bin/nvim' -f
