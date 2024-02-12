@@ -16,4 +16,6 @@ find installations/*.sh -exec {} \;
 
 chmod +x sync.sh
 
+git submodule --init --recursive
+
 ./sync.sh
