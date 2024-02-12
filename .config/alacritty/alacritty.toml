@@ -3,9 +3,9 @@ import = [
 ]
 
 [window]
-dimensions = {columns = 150, lines = 48}
+dimensions = {columns = 120, lines = 40}
 
 [font]
 normal = {family = "JetBrainsMono Nerd Font", style = "Regular"}
-size = 11.5
+size = 14
 

@@ -4,9 +4,8 @@ bison
 build-essential
 cmake
 curl
-git-all
 htop
-ibfreetype6-dev
+libfreetype6-dev
 libevent-dev
 libfontconfig1-dev
 libxcb-xfixes0-dev
@@ -15,5 +14,6 @@ ncurses-dev
 openjdk-21-jdk
 pkg-config
 python3
+scdoc
 snap
 
