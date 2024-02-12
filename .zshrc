@@ -107,6 +107,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 alias zshconfig="mate ~/.zshrc"
 alias tmux="TERM=xterm tmux -2 -f ~/.config/tmux/tmux.conf"
+alias dotsync="~/dotfiles/sync.sh"
 
 export XDG_CONFIG_HOME=~/.config
 # alias ohmyzsh="mate ~/.oh-my-zsh"
