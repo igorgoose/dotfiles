@@ -1,9 +1,6 @@
 [submodule ".config/alacritty/themes"]
 	path = .config/alacritty/themes
 	url = https://github.com/alacritty/alacritty-theme.git
-[submodule ".config/tmux/plugins/catpuccin-tmux"]
-	path = .config/tmux/plugins/catpuccin-tmux
-	url = https://github.com/dreamsofcode-io/catppuccin-tmux.git
-[submodule ".config/tmux/plugins/tmux-resurrect"]
-	path = .config/tmux/plugins/tmux-resurrect
-	url = https://github.com/tmux-plugins/tmux-resurrect.git
+[submodule ".config/tmux/plugins/tpm"]
+    path = .config/tmux/plugins/tpm
+    url = https://github.com/tmux-plugins/tpm.git
